@@ -1,0 +1,2 @@
+# btc
+free mining
